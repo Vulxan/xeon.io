@@ -8,8 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@three-ts/orbit-controls": "^1.4.7",
     "next": "10.x",
     "react": "17.x",
-    "react-dom": "17.x"
+    "react-dom": "17.x",
+    "three.js": "^0.77.1"
   }
 }
